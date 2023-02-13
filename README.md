@@ -1,1 +1,3 @@
-README LOL
+README
+
+matrice et graph
